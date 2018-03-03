@@ -33,6 +33,7 @@ header{
 .container{
     margin: 0 auto;
     width: 940px;
+    padding: 10px;
 }
 body{
     color: #333333;

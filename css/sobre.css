@@ -3,11 +3,11 @@ body{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin-left: auto;
     margin-right: auto;
-    width: 940px;
 }
-h1{
+#titulo-sobre{
     background-image: url(../img/sobre-background.jpg);
     padding: 10px;
+    margin: 5px;
 }
 h2{
     border-bottom: 2px solid #333333;
@@ -46,7 +46,7 @@ figcaption{
     font-style: italic;
     margin-top: 10px;
 }
-#rodape{
+/*#rodape{
     color: #777;
     margin: 30px 0;
     padding: 30px 0;
@@ -55,4 +55,4 @@ figcaption{
     margin-right: 30px;
     vertical-align: middle;
     width: 94px;
-}
+}*/
