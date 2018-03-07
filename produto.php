@@ -2,6 +2,7 @@
         $cabecalho_title = "Produto da Mirror Fashion";
         include("cabecalho.php");
     ?>
+    <div class="produto-back">
     <div class="container">
         <div class="produto">
             <h1>Fuzzy Cardigan</h1>
@@ -42,13 +43,35 @@
                 comunidade de Krotor nas ilhas gregas. Compre já e receba hoje
                 mesmo pela nossa entrega a jato.
             </p>
-            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Característica</th>
+                        <th>Detalhe</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Modelo</td>
+                        <td>Cardigã</td>
+                    </tr>
+                    <tr>
+                        <td>Material</td>
+                        <td>Algodão e poliester</td>
+                    </tr>
+                    <tr>
+                        <td>Cores</td>
+                        <td>Azul, Rosa e Verde</td>
+                    </tr>
+                    <tr>
+                        <td>Lavagem</td>
+                        <td>Lavar a mão</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
-
-
-
-
-
+</div>
 
 
 
